@@ -12,3 +12,4 @@ Konzolna aplikacija koristila je staru verziju class libraryja jer nova verzija 
 #Pitanje 3:
 Pri brisanju foldera me prvo windows malo zeza što se tiče permissiona i sl.,
 ali nakon uspješnog brisanja, sav moj trud biva izgubljen jer Visual Studio obnovi cijeli folder...
+
